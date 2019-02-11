@@ -4,8 +4,21 @@ body  {
 h1  {
       font-family: Palatino;
       color: crimson;
+      text-align: center;
     }
 p {
     font-family: Garamond;
     color: salmon;
   }
+table {
+        border: 1px solid black;
+      }
+th, td {
+          padding: 15px;
+          border: 1px solid black
+       }
+th {
+     background-color: grey;
+     color: indigo;
+     border: 1px solid black;
+   }
